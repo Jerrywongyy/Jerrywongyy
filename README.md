@@ -12,7 +12,7 @@
 - Vocational Business English
 - I am happy to share my information to all of you.
 - Tic-Tac-Toe My first game:
-- https://jerrywongyy.github.io/GAME/
+- https://jerrywongyy.github.io/TIC-TAC-TOE/
 
 <!---
 Jerrywongyy/Jerrywongyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
