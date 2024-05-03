@@ -13,6 +13,8 @@
 - I am happy to share my information to all of you.
 - Tic-Tac-Toe My first game:
 - https://jerrywongyy.github.io/TIC-TAC-TOE/
+- memory match game
+- https://jerrywongyy.github.io/memory-matching-game/
 
 <!---
 Jerrywongyy/Jerrywongyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
